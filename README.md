@@ -16,5 +16,6 @@ wiki page:
 
 https://github.com/Rehab-Game-Dev/BetIt/wiki
 
+link to itch io:
 
-https://itch.io/game/edit/4080674      link to itch io
+https://itch.io/game/edit/4080674
