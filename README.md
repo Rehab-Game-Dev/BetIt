@@ -15,11 +15,3 @@ Bet It is a betting game where the players choose scenarios to put their money o
 wiki page:
 
 https://github.com/Rehab-Game-Dev/BetIt/wiki
-
-youtube video for assignment 1:
-
-youtube video for assignment 2:
-
-youtube video for assignment 3:
-
-youtube video for assignment 4:
